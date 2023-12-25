@@ -11,7 +11,7 @@ Salut, je suis Quentin BOISSET, un passionné de développement depuis 2020, sp�
 ## Projets récents
 
 ### 🚀 Vahiné Beauté
-Projet en cours de développement en Symfony où je réalise un intranet. L'objectif est de consigner sur le site web les soins effectués par les salariés de Vahiné Beauté, une institut de beauté. Cela permet d'obtenir un suivi plus facile tout en limitant la consommation de papier.
+Projet en cours de développement en Symfony où je réalise un intranet dans un premier temps. L'objectif est de consigner sur le site web les soins effectués par les salariés de Vahiné Beauté, une institut de beauté. Cela permet d'obtenir un suivi plus facile tout en limitant la consommation de papier.
 
 ### 🌐 DemineurGames
 Un petit projet de démineur en JS. L'objectif est de tout réaliser en JavaScript sans utiliser d'autres langages. À accomplir en quelques jours.
