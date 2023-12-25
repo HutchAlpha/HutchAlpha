@@ -17,6 +17,8 @@ Projet en cours de développement en Symfony où je réalise un intranet. L'obje
 Un petit projet de démineur en JS. L'objectif est de tout réaliser en JavaScript sans utiliser d'autres langages. À accomplir en quelques jours.
 [**Découvrir DemineurGames**](https://demineurgames.000webhostapp.com)
 
+(...)
+
 ## Contributions Open Source
 
 En plus de mes projets personnels, je contribue activement à des projets open source pour améliorer la communauté et partager mes connaissances.
