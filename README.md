@@ -10,6 +10,8 @@ Salut, je suis Quentin BOISSET, un passionné de développement depuis 2020, sp�
 
 - **WORDPRESS ou WIX** : Je suis en mesure de concrétiser des projets selon vos besoins
 
+👨‍🎓 Je suis actuellement titulaire d'un **BAC +2 en DISII** (Développeur intégrateur de solutions intranet/internet).
+
 ## Projets récents
 
 ### 🚀 Vahiné Beauté
