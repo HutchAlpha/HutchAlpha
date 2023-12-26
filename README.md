@@ -8,6 +8,8 @@ Salut, je suis Quentin BOISSET, un passionné de développement depuis 2020, sp�
 
 - **CSS / HTML** : Maîtrise des dernières tendances en matière de design web pour garantir des interfaces élégantes et réactives.
 
+- **WORDPRESS ou WIX** : Je suis en mesure de concrétiser des projets selon vos besoins
+
 ## Projets récents
 
 ### 🚀 Vahiné Beauté
