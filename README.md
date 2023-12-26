@@ -4,7 +4,7 @@ Salut, je suis Quentin BOISSET, un passionné de développement depuis 2020, sp�
 
 - **PHP (Symfony)** : J'excelle dans la création d'applications web robustes et évolutives avec le framework Symfony.
 
-- **JavaScript (JS)** : En tant que fervent amateur de JS, je jongle avec les frameworks et bibliothèques modernes pour créer des expériences utilisateur interactives.
+- **JavaScript (JS)** : En tant que fervent amateur de JS, je réalise des projets pour m'améliorer dans se domaine.
 
 - **CSS / HTML** : Maîtrise des dernières tendances en matière de design web pour garantir des interfaces élégantes et réactives.
 
