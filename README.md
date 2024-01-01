@@ -23,6 +23,7 @@ Un petit projet de démineur en JS. L'objectif est de tout réaliser en JavaScri
 
 (...)
 
+Retrouvez tous mes gros projets sur mon site web : [**Découvrir mon site vitrine**](https://hutchalpha.fr/presentation/)
 ## Contributions Open Source
 
 En plus de mes projets personnels, je contribue activement à des projets open source pour améliorer la communauté et partager mes connaissances.
