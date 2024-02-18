@@ -19,7 +19,7 @@ Projet en cours de développement en Symfony où je réalise un intranet dans un
 
 ### 🌐 DemineurGames
 Un petit projet de démineur en JS. L'objectif est de tout réaliser en JavaScript sans utiliser d'autres langages. À accomplir en quelques jours.
-[**Découvrir DemineurGames**](https://demineurgames.000webhostapp.com)
+[**Découvrir DemineurGames**](https://hutchalpha.fr/projetdemineur/)
 
 (...)
 
@@ -28,7 +28,7 @@ Retrouvez tous mes gros projets sur mon site web : [**Découvrir mon site vitrin
 
 En plus de mes projets personnels, je contribue activement à des projets open source pour améliorer la communauté et partager mes connaissances.
 
-- **ImmoFox** : J'ai créé un tutoriel pour découvrir le monde de Symfony à travers un cours que j'ai moi-même réalisé (voir la documentation).
+- **ImmoFox** : J'ai créé un tutoriel pour découvrir le monde de Symfony à travers un cours que j'ai moi-même réalisé (voir la documentation).[**ImmoFox**](https://hutchalpha.fr/projetex/public)
 
 - **EXO-PHP** : Un projet similaire pour apprendre le PHP.
 
