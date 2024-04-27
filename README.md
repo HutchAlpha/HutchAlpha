@@ -13,12 +13,16 @@ Salut, je suis Quentin BOISSET, un passionné de développement depuis 2020, sp�
 👨‍🎓 Je suis actuellement titulaire d'un **BAC +2 en DISII** (Développeur intégrateur de solutions intranet/internet) + **BAC +2 GESTION PME/PMI**.
 
 ## Projets récents
+### 👥 EventPlag
+Organiser un événement à plusieurs, c'est compliqué. Pourquoi ne pas envisager une organisation différente ?
+[**Découvrir EventPlag**](https://hutchalpha.fr/EventPlag/index.php)
+
 ### 🍽️ CuistiPlan
-Projet en cours de développement en utilisant Symfony pour créer un site web dédié à la recherche rapide de recettes préférées grâce à une API. L'objectif est de permettre aux utilisateurs de retrouver facilement leurs recettes favorites en quelques clics, simplifiant ainsi leur expérience culinaire.
+Projet Symfony dédié à la recherche rapide de recettes préférées grâce à une API. L'objectif est de permettre aux utilisateurs de retrouver facilement leurs recettes favorites en quelques clics, simplifiant ainsi leur expérience culinaire.
 [**Découvrir CuistiPlan**](https://www.hutchalpha.fr/CuistiPlan/public/)
 
 ### 🚀 Vahiné Beauté
-Projet en cours de développement en Symfony où je réalise un intranet dans un premier temps. L'objectif est de consigner sur le site web les soins effectués par les salariés de Vahiné Beauté, une institut de beauté. Cela permet d'obtenir un suivi plus facile tout en limitant la consommation de papier.
+Projet Symfony Intranet et Internet dont l'objectif est de consigner sur le site web les soins effectués par les salariés de Vahiné Beauté, un institut de beauté. Cela permet d'obtenir un suivi plus facile tout en limitant la consommation de papier. La version Internet sera un système d'abonnement actuellement en développement !
 
 ### 🌐 DemineurGames
 Un petit projet de démineur en JS. L'objectif est de tout réaliser en JavaScript sans utiliser d'autres langages. À accomplir en quelques jours.
