@@ -35,7 +35,7 @@ Retrouvez tous mes gros projets sur mon site web : [**Découvrir mon site vitrin
 
 En plus de mes projets personnels, je contribue activement à des projets open source pour améliorer la communauté et partager mes connaissances.
 
-- **ImmoFox** : J'ai créé un tutoriel pour découvrir le monde de Symfony à travers un cours que j'ai moi-même réalisé (voir la documentation).[**ImmoFox**](https://hutchalpha.fr/projetex/public)
+- **ImmoFox** : J'ai créé un tutoriel pour découvrir le monde de Symfony à travers un cours que j'ai moi-même réalisé (voir la documentation).[**ImmoFox**](https://hutchalpha.fr/ImmoFox/public/)
 
 - **EXO-PHP** : Un projet similaire pour apprendre le PHP.
 
