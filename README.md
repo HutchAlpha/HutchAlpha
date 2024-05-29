@@ -24,6 +24,10 @@ Projet Symfony dédié à la recherche rapide de recettes préférées grâce à
 ### 🚀 Vahiné Beauté
 Projet Symfony Intranet et Internet dont l'objectif est de consigner sur le site web les soins effectués par les salariés de Vahiné Beauté, un institut de beauté. Cela permet d'obtenir un suivi plus facile tout en limitant la consommation de papier. La version Internet sera un système d'abonnement actuellement en développement !
 
+### 🌏 TradGames
+Jeu où l'objectif est de traduire le plus de phrases possible pour gagner des points
+[**Découvrir TradGames**](https://hutchalpha.fr/TradGames/)
+
 ### 🌐 DemineurGames
 Un petit projet de démineur en JS. L'objectif est de tout réaliser en JavaScript sans utiliser d'autres langages. À accomplir en quelques jours.
 [**Découvrir DemineurGames**](https://hutchalpha.fr/projetdemineur/)
