@@ -28,6 +28,10 @@ Projet Symfony Intranet et Internet dont l'objectif est de consigner sur le site
 Jeu où l'objectif est de traduire le plus de phrases possible pour gagner des points
 [**Découvrir TradGames**](https://hutchalpha.fr/TradGames/)
 
+### ✚ Calculaton
+Vous aimez les maths ? Moi j'adore ça, donc je vous propose de vous entraîner :)
+[**Découvrir Calculaton**](https://hutchalpha.fr/Calculaton/)
+
 ### 🌐 DemineurGames
 Un petit projet de démineur en JS. L'objectif est de tout réaliser en JavaScript sans utiliser d'autres langages. À accomplir en quelques jours.
 [**Découvrir DemineurGames**](https://hutchalpha.fr/projetdemineur/)
