@@ -2,7 +2,9 @@
 
 Salut, je suis Quentin BOISSET, un passionné de développement depuis 2020, spécialisé principalement dans le Front-end. Mon expertise s'étend sur plusieurs technologies :
 
-- **PHP (Symfony)** : J'excelle dans la création d'applications web robustes et évolutives avec le framework Symfony.
+- **Symfony** : J'excelle dans la création d'applications web robustes et évolutives avec le framework Symfony.
+
+- **PHP** : Le language en PHP constitue la fondation de mes compétences de base en développement web
 
 - **JavaScript (JS)** : En tant que fervent amateur de JS, je réalise des projets pour m'améliorer dans se domaine.
 
