@@ -53,11 +53,11 @@ Conception et développement d’une application interne avec Symfony pour centr
 
 ## Projets récents
 
-### L'horizon Glacérienne
+### 🌅 L'horizon Glacérienne
 Site météorologie pour La Glacerie. Désolé, j'adore la météo :)
 [**Découvrir L'horizon Glacérienne**](https://hutchalpha.fr/MeteoApp/vues/pages/index.php)
 
-### MapJob
+### 🗺️ MapJob
 Site conçu pour faciliter la recherche d'emploi et le recrutement grâce à l'aide d'une carte interactive
 [**Découvrir MapJob**](https://hutchalpha.fr/MapJobs/index.php)
 
