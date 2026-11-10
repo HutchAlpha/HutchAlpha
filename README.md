@@ -66,12 +66,11 @@ Organiser un événement à plusieurs, c'est compliqué. Pourquoi ne pas envisag
 [**Découvrir EventPlag**](https://hutchalpha.fr/EventPlag/index.php)
 
 ### 🍽️ CuistiPlan
-Projet Symfony dédié à la recherche rapide de recettes préférées grâce à une API. L'objectif est de permettre aux utilisateurs de retrouver facilement leurs recettes favorites en quelques clics, simplifiant ainsi leur expérience culinaire.
+Site internet dont l'objectif est, grâce à une API, de retrouver sa recette favorite en un rien de temps.
 [**Découvrir CuistiPlan**](https://www.hutchalpha.fr/CuistiPlan/public/)
 
-### 🚀 Vahiné Beauté
-Projet Symfony Intranet et Internet dont l'objectif est de consigner sur le site web les soins effectués par les salariés de Vahiné Beauté, un institut de beauté. Cela permet d'obtenir un suivi plus facile tout en limitant la consommation de papier. La version Internet sera un système d'abonnement actuellement en développement !
-
+### 🚀 Vahiné Beauté (CRM Beauty)
+Site Intranet dont l'objectif est de consigner sur le site web les soins effectués par les salariés de Vahiné Beauté
 (...)
 
 Retrouvez tous mes gros projets sur mon site web : [**Découvrir mon site vitrine**](https://hutchalpha.fr/presentation/)
