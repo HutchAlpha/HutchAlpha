@@ -69,7 +69,7 @@ Organiser un événement à plusieurs, c'est compliqué. Pourquoi ne pas envisag
 Site internet dont l'objectif est, grâce à une API, de retrouver sa recette favorite en un rien de temps.
 [**Découvrir CuistiPlan**](https://www.hutchalpha.fr/CuistiPlan/public/)
 
-### 🚀 Vahiné Beauté (CRM Beauty)
+### 💅 CRM Beauty (Vahiné Beauté)
 Site Intranet dont l'objectif est de consigner sur le site web les soins effectués par les salariés de Vahiné Beauté
 (...)
 
