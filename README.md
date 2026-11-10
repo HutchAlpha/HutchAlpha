@@ -1,22 +1,66 @@
 # Bienvenue sur mon profil GitHub ! 👋
 
-Salut, je suis Quentin BOISSET, un passionné de développement depuis 2020, spécialisé principalement dans le Front-end. Mon expertise s'étend sur plusieurs technologies :
+Je suis Quentin BOISSET, développeur passionné depuis 2020, spécialisé dans le développement d’applications JavaScript et React.
 
-- **Symfony** : J'excelle dans la création d'applications web robustes et évolutives avec le framework Symfony.
+Je conçois des sites web, des applications et des interfaces de jeux interactifs. Je travaille principalement sur le front-end, avec également une expérience en développement back-end avec PHP et Symfony.
 
-- **PHP** : Le language en PHP constitue la fondation de mes compétences de base en développement web
+🔎 Je recherche un poste junior que se soit en alternance ou encore en CDD / CDI au sein d’une équipe technique pour contribuer à des projets concrets et continuer à progresser.
 
-- **JavaScript (JS)** : En tant que fervent amateur de JS, je réalise des projets pour m'améliorer dans se domaine.
+## 🛠️ Technologies et outils
 
-- **CSS / HTML** : Maîtrise des dernières tendances en matière de design web pour garantir des interfaces élégantes et réactives.
+### Front-end
+JavaScript · TypeScript · React · Redux · HTML5 · CSS3 · SCSS
 
-- **WORDPRESS ou WIX** : Je suis en mesure de concrétiser des projets selon vos besoins
+### Back-end
+PHP · Symfony · Twig · MySQL · API REST · JSON
+
+### Outils et intégrations
+Git · GitHub · Visual Studio Code · Figma · Trello · Steamworks · Mailchimp · WooCommerce
+
+## Diplômes
 
 👨‍🎓 Je suis actuellement titulaire :
+
+- **Développeur d’application JavaScript / React — OpenClassrooms** · 2025–2026 · Formation RNCP de niveau 6. (en finnalisation du diplôme)
+- **Formation d’anglais** — Greta, Cherbourg · 2025–2026 · 4 mois.
 - **BAC +2 en DISII** (Développeur intégrateur de solutions intranet/internet)
 - **BAC +2 GESTION PME/PMI** (Assistant de gestion / Gestion administrative).
 
+## 💼 Expériences professionnelles
+
+### Développeur web — Association Le Nid
+Alternance · 2025–2026
+
+Développement de sites web et participation à la création de jeux interactifs publiés sur Steam :
+
+- Création d’interfaces de jeu, de menus et de systèmes de navigation avec React
+- Intégration d’animations et d’une charte graphique
+- Configuration de Steamworks pour préparer et publier les jeux sur Steam
+- Participation à la composition musicale et à son intégration
+- Conception et développement du site Pick Your Universe
+- Développement d’un site e-commerce de vente de tableaux connecté à WooCommerce
+- Intégration d’un système d’e-mailing personnalisé avec Mailchimp
+
+### Développeur web — Vahiné Beauté
+Stage · 2024 · 6 mois
+
+Conception et développement d’une application interne avec Symfony pour centraliser les informations et remplacer les supports papier :
+
+- Gestion des rendez-vous et suivi des prestations
+- Création d’une base de données MySQL pour les clients, les prestations et les stocks
+- Conception d’une charte graphique avec Figma
+- Développement de l’architecture de l’application jusqu’à sa mise en ligne
+
 ## Projets récents
+
+### L'horizon Glacérienne
+Site météorologie pour La Glacerie. Désolé, j'adore la météo :)
+[**Découvrir L'horizon Glacérienne**](https://hutchalpha.fr/MeteoApp/vues/pages/index.php)
+
+### MapJob
+Site conçu pour faciliter la recherche d'emploi et le recrutement grâce à l'aide d'une carte interactive
+[**Découvrir MapJob**](https://hutchalpha.fr/MapJobs/index.php)
+
 ### 👥 EventPlag
 Organiser un événement à plusieurs, c'est compliqué. Pourquoi ne pas envisager une organisation différente ?
 [**Découvrir EventPlag**](https://hutchalpha.fr/EventPlag/index.php)
@@ -28,24 +72,16 @@ Projet Symfony dédié à la recherche rapide de recettes préférées grâce à
 ### 🚀 Vahiné Beauté
 Projet Symfony Intranet et Internet dont l'objectif est de consigner sur le site web les soins effectués par les salariés de Vahiné Beauté, un institut de beauté. Cela permet d'obtenir un suivi plus facile tout en limitant la consommation de papier. La version Internet sera un système d'abonnement actuellement en développement !
 
-### 🌏 TradGames
-Jeu où l'objectif est de traduire le plus de phrases possible pour gagner des points
-[**Découvrir TradGames**](https://hutchalpha.fr/TradGames/)
-
-### ✚ Calculaton
-Vous aimez les maths ? Moi j'adore ça, donc je vous propose de vous entraîner :)
-[**Découvrir Calculaton**](https://hutchalpha.fr/Calculaton/)
-
-### 🌐 DemineurGames
-Un petit projet de démineur en JS. L'objectif est de tout réaliser en JavaScript sans utiliser d'autres langages. À accomplir en quelques jours.
-[**Découvrir DemineurGames**](https://hutchalpha.fr/projetdemineur/)
-
 (...)
 
 Retrouvez tous mes gros projets sur mon site web : [**Découvrir mon site vitrine**](https://hutchalpha.fr/presentation/)
+
 ## Contributions Open Source
 
 En plus de mes projets personnels, je contribue activement à des projets open source pour améliorer la communauté et partager mes connaissances.
+
+- **MeteoLaGlacerie**
+- L'objectif est de refaire un ancien projet météo sous React afin qu'il soit beaucoup plus organisé et adapté à la logique appris avec OpenClassRoom
 
 - **ImmoFox** : J'ai créé un tutoriel pour découvrir le monde de Symfony à travers un cours que j'ai moi-même réalisé (voir la documentation).[**ImmoFox**](https://hutchalpha.fr/ImmoFox/public/)
 
