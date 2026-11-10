@@ -80,7 +80,7 @@ Retrouvez tous mes gros projets sur mon site web : [**Découvrir mon site vitrin
 
 En plus de mes projets personnels, je contribue activement à des projets open source pour améliorer la communauté et partager mes connaissances.
 
-- **MeteoLaGlacerie** : L'objectif est de refaire un ancien projet météo sous React afin qu'il soit beaucoup plus organisé et adapté à la logique appris avec OpenClassRoom [[**MétéoLaGlacerie**](https://github.com/HutchAlpha/LaMeteoGlacerienne.git)
+- **LaMeteoGlacerienne** : L'objectif est de refaire un ancien projet météo sous React afin qu'il soit beaucoup plus organisé et adapté à la logique appris avec OpenClassRoom [**LaMeteoGlacerienne**](https://github.com/HutchAlpha/LaMeteoGlacerienne.git)
 
 - **ImmoFox** : J'ai créé un tutoriel pour découvrir le monde de Symfony à travers un cours que j'ai moi-même réalisé (voir la documentation).[**ImmoFox**](https://hutchalpha.fr/ImmoFox/public/)
 
